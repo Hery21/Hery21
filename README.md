@@ -23,7 +23,7 @@ Currently focused on frontend low code development, react native, CI/CD, and aut
 | Project | What it does |
 |---|---|
 | [React Camera App](https://github.com/Hery21/react-camera-app) | [Camera App accessed through mobile browsers for simple AR and QR] |
-| [Table Form Template]((https://github.com/Hery21/TableFormTemplate)) | [Developing low code solution to most common app request] |
+| [Table Form Template](https://github.com/Hery21/TableFormTemplate) | [Developing low code solution to most common app request] |
 | [Fish Commodity](https://github.com/Hery21/Fish-commodity) | [Microservices using Gin and Express] |
 
 ### Currently
