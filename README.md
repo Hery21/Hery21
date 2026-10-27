@@ -14,7 +14,7 @@
 Fullstack software engineer building clean, reliable products from database to UI.
 Currently focused on low-code frontend development, React Native, CI/CD, and automation.
 
-🎓 **[Computer Science]** — Universitas Gadjah Mada
+🎓 **Computer Science** — Universitas Gadjah Mada
 
 ### Tech Stack
 
