@@ -12,25 +12,24 @@
 ### About
 
 Fullstack software engineer who enjoys building clean, reliable products from database to UI.
-Currently focused on **[current focus]**. Open to **[collaborations / opportunities]**.
+Currently focused on frontend low code development, react native, CI/CD, and automation.
 
 ### Tech Stack
 
-**Stack:** `[Language]` · `[Framework]` · `[Backend]` · `[Database]` · `[Tools]`
+**Stack:** `Javascript, Typescript, Go, Python` · `React, Next` · `Express, Gin` · `PostgreSQL` · `Docker, n8n, Linux`
 
 ### Featured Projects
 
 | Project | What it does |
 |---|---|
-| [Protein-sequence-aligning](https://github.com/Hery21/Protein-sequence-aligning) | [One-line description] |
-| [Genetic-Algorithm-CNN-Dysarthria](https://github.com/Hery21/Genetic-Algorithm-CNN-Dysarthria) | [One-line description] |
-| [assignment-phincon-backend](https://github.com/Hery21/assignment-phincon-backend) | [One-line description] |
+| [React Camera App](https://github.com/Hery21/react-camera-app) | [Camera App accessed through mobile browsers for simple AR and QR] |
+| [Table Form Template]((https://github.com/Hery21/TableFormTemplate)) | [Developing low code solution to most common app request] |
+| [Fish Commodity](https://github.com/Hery21/Fish-commodity) | [Microservices using Gin and Express] |
 
 ### Currently
 
-- 🔭 Building: **[project / learning focus]**
-- 🌱 Learning: **[skill / topic]**
-- 💬 Ask me about: **[your strongest area]**
+- 🔭 Building: **[React Camera App / Camera app that runs on mobile browser]**
+- 🌱 Learning: **[CI/CD / Learning sustainable development by implementing best practice and fool proof pipeline]**
 
 ---
 
